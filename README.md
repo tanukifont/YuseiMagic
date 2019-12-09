@@ -51,4 +51,4 @@ SIL Open Font License Version 1.1
 
 
 ## SIL Open Font License (SILオープンフォントライセンス) Version 1.1 について
-・SILライセンスについての詳細は、[ライセンス原文日本語サイト](https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1)、またはレポジトリ内のOFL.txt（英語）をご確認ください。
+・SILライセンスについての詳細は、[ライセンス原文日本語サイト](https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1)、またはリポジトリ内のOFL.txt（英語）をご確認ください。
