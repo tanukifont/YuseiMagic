@@ -380,7 +380,7 @@ unicode = 00C0;
 {
 color = 4;
 glyphname = Aring;
-lastChange = "2019-12-10 10:18:33 +0000";
+lastChange = "2019-12-10 11:17:59 +0000";
 layers = (
 {
 components = (
@@ -389,7 +389,7 @@ name = A;
 },
 {
 name = ringcomb;
-transform = "{1, 0, 0, 1, -43, 0}";
+transform = "{1, 0, 0, 1, 7, 3}";
 }
 );
 layerId = "47F7128E-F1A6-4572-9BDC-88462FF34A66";
@@ -401,7 +401,7 @@ unicode = 00C5;
 {
 color = 4;
 glyphname = Atilde;
-lastChange = "2019-12-10 10:18:33 +0000";
+lastChange = "2019-12-10 11:19:05 +0000";
 layers = (
 {
 components = (
@@ -410,7 +410,7 @@ name = A;
 },
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, -48, 0}";
+transform = "{1, 0, 0, 1, -8, 0}";
 }
 );
 layerId = "47F7128E-F1A6-4572-9BDC-88462FF34A66";
@@ -1722,7 +1722,7 @@ unicode = 004E;
 {
 color = 4;
 glyphname = Ntilde;
-lastChange = "2019-12-10 10:37:34 +0000";
+lastChange = "2019-12-10 11:19:09 +0000";
 layers = (
 {
 components = (
@@ -1731,7 +1731,7 @@ name = N;
 },
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, -50, 0}";
+transform = "{1, 0, 0, 1, -10, 0}";
 }
 );
 layerId = "47F7128E-F1A6-4572-9BDC-88462FF34A66";
@@ -1926,7 +1926,7 @@ unicode = 00D8;
 {
 color = 4;
 glyphname = Otilde;
-lastChange = "2019-12-10 10:37:34 +0000";
+lastChange = "2019-12-10 11:19:12 +0000";
 layers = (
 {
 components = (
@@ -1935,7 +1935,7 @@ name = O;
 },
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, -53, -2}";
+transform = "{1, 0, 0, 1, -13, -2}";
 }
 );
 layerId = "47F7128E-F1A6-4572-9BDC-88462FF34A66";
@@ -3100,13 +3100,13 @@ unicode = 00E0;
 {
 color = 4;
 glyphname = aring;
-lastChange = "2019-12-10 10:37:34 +0000";
+lastChange = "2019-12-10 11:18:08 +0000";
 layers = (
 {
 components = (
 {
 name = ringcomb;
-transform = "{1, 0, 0, 1, -40, -200}";
+transform = "{1, 0, 0, 1, -10, -200}";
 },
 {
 name = a;
@@ -3123,13 +3123,13 @@ unicode = 00E5;
 {
 color = 4;
 glyphname = atilde;
-lastChange = "2019-12-10 10:37:34 +0000";
+lastChange = "2019-12-10 11:19:15 +0000";
 layers = (
 {
 components = (
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, -57, -160}";
+transform = "{1, 0, 0, 1, -17, -160}";
 },
 {
 name = a;
@@ -4500,13 +4500,13 @@ unicode = 006E;
 {
 color = 4;
 glyphname = ntilde;
-lastChange = "2019-12-10 10:37:34 +0000";
+lastChange = "2019-12-10 11:19:18 +0000";
 layers = (
 {
 components = (
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, -45, -147}";
+transform = "{1, 0, 0, 1, -5, -147}";
 },
 {
 name = n;
@@ -4723,13 +4723,13 @@ unicode = 00F8;
 {
 color = 4;
 glyphname = otilde;
-lastChange = "2019-12-10 10:37:34 +0000";
+lastChange = "2019-12-10 11:19:21 +0000";
 layers = (
 {
 components = (
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, -40, -155}";
+transform = "{1, 0, 0, 1, 0, -155}";
 },
 {
 name = o;
