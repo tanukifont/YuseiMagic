@@ -4500,17 +4500,17 @@ unicode = 006E;
 {
 color = 4;
 glyphname = ntilde;
-lastChange = "2019-12-10 11:19:18 +0000";
+lastChange = "2019-12-10 11:30:37 +0000";
 layers = (
 {
 components = (
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, -5, -147}";
+transform = "{1, 0, 0, 1, 5, -147}";
 },
 {
 name = n;
-transform = "{1, 0, 0, 1, 14, 0}";
+transform = "{1, 0, 0, 1, 24, 0}";
 }
 );
 layerId = "47F7128E-F1A6-4572-9BDC-88462FF34A66";
@@ -4723,17 +4723,17 @@ unicode = 00F8;
 {
 color = 4;
 glyphname = otilde;
-lastChange = "2019-12-10 11:19:21 +0000";
+lastChange = "2019-12-10 11:30:31 +0000";
 layers = (
 {
 components = (
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, 0, -155}";
+transform = "{1, 0, 0, 1, 10, -155}";
 },
 {
 name = o;
-transform = "{1, 0, 0, 1, 15, 0}";
+transform = "{1, 0, 0, 1, 25, 0}";
 }
 );
 layerId = "47F7128E-F1A6-4572-9BDC-88462FF34A66";
