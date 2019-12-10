@@ -3123,17 +3123,17 @@ unicode = 00E5;
 {
 color = 4;
 glyphname = atilde;
-lastChange = "2019-12-10 11:19:15 +0000";
+lastChange = "2019-12-10 11:28:26 +0000";
 layers = (
 {
 components = (
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, -17, -160}";
+transform = "{1, 0, 0, 1, -7, -160}";
 },
 {
 name = a;
-transform = "{1, 0, 0, 1, 3, 0}";
+transform = "{1, 0, 0, 1, 13, 0}";
 }
 );
 layerId = "47F7128E-F1A6-4572-9BDC-88462FF34A66";
