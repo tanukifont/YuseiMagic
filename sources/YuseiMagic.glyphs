@@ -1,17 +1,212 @@
 {
 .appVersion = "1277";
-date = "2019-12-09 23:01:29 +0000";
-familyName = "New Font";
+copyright = "Copyright © 2019 Yusei Magic Project";
+customParameters = (
+{
+name = vendorID;
+value = UKWN;
+},
+{
+name = unicodeRanges;
+value = (
+0,
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+9,
+29,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+41,
+42,
+43,
+44,
+45,
+46,
+47,
+48,
+49,
+50,
+54,
+55,
+59,
+61,
+62,
+65,
+68
+);
+},
+{
+name = codePageRanges;
+value = (
+"1252",
+"1251",
+"1253",
+"932"
+);
+},
+{
+name = ROS;
+value = "Adobe-Identity-0";
+},
+{
+name = localizedFamilyName;
+value = "Japanese;Yusei Magic";
+},
+{
+name = localizedDesigner;
+value = "Japanese;Yusei Magicプロジェクト";
+},
+{
+name = panose;
+value = (
+2,
+0,
+6,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+);
+},
+{
+name = glyphOrder;
+value = (
+.notdef,
+space
+);
+},
+{
+name = "Disable Subroutines";
+value = 1;
+},
+{
+name = note;
+value = "";
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+}
+);
+date = "2019-12-09 23:47:26 +0000";
+designer = Tanukizamurai;
+designerURL = "https://tanukifont.com";
+familyName = "Yusei Magic";
 fontMaster = (
 {
-ascender = 800;
-capHeight = 700;
-descender = -200;
+ascender = 880;
+capHeight = 760;
+customParameters = (
+{
+name = "CJK Guide";
+value = "kata:81";
+},
+{
+name = "CJK Guide";
+value = "hira:72";
+},
+{
+name = "CJK Guide";
+value = "han:68";
+},
+{
+name = "CJK Guide";
+value = "han:82";
+},
+{
+name = "CJK Guide";
+value = "han:90";
+},
+{
+name = hheaAscender;
+value = 880;
+},
+{
+name = hheaDescender;
+value = -120;
+},
+{
+name = hheaLineGap;
+value = 500;
+},
+{
+name = vheaVertAscender;
+value = 500;
+},
+{
+name = vheaVertDescender;
+value = -500;
+},
+{
+name = vheaVertLineGap;
+value = 500;
+},
+{
+name = typoAscender;
+value = 880;
+},
+{
+name = typoDescender;
+value = -120;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 880;
+},
+{
+name = winDescent;
+value = -120;
+}
+);
+descender = -120;
 id = "47F7128E-F1A6-4572-9BDC-88462FF34A66";
-xHeight = 500;
+weightValue = 400;
+xHeight = 380;
 }
 );
 glyphs = (
+{
+glyphname = .notdef;
+layers = (
+{
+layerId = "47F7128E-F1A6-4572-9BDC-88462FF34A66";
+width = 600;
+}
+);
+},
+{
+glyphname = space;
+layers = (
+{
+layerId = "47F7128E-F1A6-4572-9BDC-88462FF34A66";
+width = 600;
+}
+);
+unicode = 0020;
+},
 {
 glyphname = A;
 layers = (
@@ -661,19 +856,34 @@ width = 600;
 }
 );
 unicode = 002D;
+}
+);
+instances = (
+{
+customParameters = (
+{
+name = Filter;
+value = AddExtremes;
 },
 {
-glyphname = space;
-layers = (
+name = localizedFamilyName;
+value = "Japanese;Yusei Magic";
+},
 {
-layerId = "47F7128E-F1A6-4572-9BDC-88462FF34A66";
-width = 600;
+name = "Disable Subroutines";
+value = 1;
 }
 );
-unicode = 0020;
+interpolationWeight = 400;
+instanceInterpolations = {
+"47F7128E-F1A6-4572-9BDC-88462FF34A66" = 1;
+};
+name = Regular;
 }
 );
+manufacturer = "Yusei Magic Progect ";
+manufacturerURL = "https://github.com/tanukifont/YuseiMagic";
 unitsPerEm = 1000;
-versionMajor = 1;
-versionMinor = 0;
+versionMajor = 0;
+versionMinor = 1;
 }
