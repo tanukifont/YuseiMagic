@@ -183,6 +183,14 @@ value = -120;
 );
 descender = -120;
 id = "47F7128E-F1A6-4572-9BDC-88462FF34A66";
+userData = {
+GSCornerRadius = 33;
+GSOffsetAutoStroke = 1;
+GSOffsetHorizontal = 58;
+GSOffsetMakeStroke = 1;
+GSOffsetVertical = 25;
+};
+visible = 1;
 weightValue = 400;
 xHeight = 510;
 }
