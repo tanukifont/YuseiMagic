@@ -1,11 +1,10 @@
 {
 .appVersion = "1277";
-copyright = "Copyright © 2019 Yusei Magic Project";
+DisplayStrings = (
+"TOFU/.notdef"
+);
+copyright = "Copyright 2019 The yuseiMagic Project Authors (https://github.com/tanukifont/YuseiMagic)";
 customParameters = (
-{
-name = vendorID;
-value = UKWN;
-},
 {
 name = unicodeRanges;
 value = (
@@ -105,9 +104,14 @@ value = "http://scripts.sil.org/OFL";
 {
 name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = fsType;
+value = (
+);
 }
 );
-date = "2019-12-09 23:47:26 +0000";
+date = "2019-12-11 07:55:27 +0000";
 designer = Tanukizamurai;
 designerURL = "https://tanukifont.com";
 familyName = "Yusei Magic";
@@ -208,11 +212,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 880;
+value = 1050;
 },
 {
 name = winDescent;
-value = -120;
+value = 267;
 }
 );
 descender = -120;
@@ -13308,9 +13312,9 @@ instanceInterpolations = {
 name = Regular;
 }
 );
-manufacturer = "Yusei Magic Progect ";
+manufacturer = "Yusei Magic Project";
 manufacturerURL = "https://github.com/tanukifont/YuseiMagic";
 unitsPerEm = 1000;
-versionMajor = 0;
-versionMinor = 1;
+versionMajor = 1;
+versionMinor = 0;
 }
