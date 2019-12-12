@@ -17154,8 +17154,9 @@ note = uni3093;
 unicode = 3093;
 },
 {
+color = 0;
 glyphname = "vu-hira";
-lastChange = "2019-12-12 05:04:50 +0000";
+lastChange = "2019-12-12 05:42:50 +0000";
 layers = (
 {
 components = (
