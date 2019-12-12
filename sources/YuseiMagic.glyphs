@@ -17153,6 +17153,26 @@ note = uni3093;
 unicode = 3093;
 },
 {
+glyphname = "vu-hira";
+lastChange = "2019-12-12 04:53:52 +0000";
+layers = (
+{
+components = (
+{
+name = "u-hira";
+},
+{
+name = "voicedcomb-kana";
+transform = "{1, 0, 0, 1, -208, 59}";
+}
+);
+layerId = "47F7128E-F1A6-4572-9BDC-88462FF34A66";
+width = 821;
+}
+);
+unicode = 3094;
+},
+{
 color = 5;
 glyphname = zero;
 lastChange = "2019-12-11 06:40:48 +0000";
