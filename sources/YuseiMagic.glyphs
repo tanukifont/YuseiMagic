@@ -125,7 +125,7 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature sups;\012feature frac;\012feature ordn;\012";
+code = "feature sups;\012feature frac;\012feature ordn;\012feature fwid;\012";
 name = aalt;
 },
 {
@@ -147,6 +147,11 @@ name = frac;
 automatic = 1;
 code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;\012sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;\012";
 name = ordn;
+},
+{
+automatic = 1;
+code = "sub A by A.full;\012sub B by B.full;\012sub C by C.full;\012sub D by D.full;\012sub E by E.full;\012sub F by F.full;\012sub G by G.full;\012sub H by H.full;\012sub I by I.full;\012sub J by J.full;\012sub K by K.full;\012sub L by L.full;\012sub M by M.full;\012sub N by N.full;\012sub O by O.full;\012sub P by P.full;\012sub Q by Q.full;\012sub R by R.full;\012sub S by S.full;\012sub T by T.full;\012sub U by U.full;\012sub V by V.full;\012sub W by W.full;\012sub X by X.full;\012sub Y by Y.full;\012sub Z by Z.full;\012sub a by a.full;\012sub b by b.full;\012sub c by c.full;\012sub d by d.full;\012sub e by e.full;\012sub f by f.full;\012sub g by g.full;\012sub h by h.full;\012sub i by i.full;\012sub j by j.full;\012sub k by k.full;\012sub l by l.full;\012sub m by m.full;\012sub n by n.full;\012sub o by o.full;\012sub p by p.full;\012sub q by q.full;\012sub r by r.full;\012sub s by s.full;\012sub t by t.full;\012sub u by u.full;\012sub v by v.full;\012sub w by w.full;\012sub x by x.full;\012sub y by y.full;\012sub z by z.full;\012sub zero by zero.full;\012sub one by one.full;\012sub two by two.full;\012sub three by three.full;\012sub four by four.full;\012sub five by five.full;\012sub six by six.full;\012sub seven by seven.full;\012sub eight by eight.full;\012sub nine by nine.full;\012sub ampersand by ampersand.full;\012sub asterisk by asterisk.full;\012sub at by at.full;\012sub colon by colon.full;\012sub comma by comma.full;\012sub exclam by exclam.full;\012sub numbersign by numbersign.full;\012sub percent by percent.full;\012sub period by period.full;\012sub question by question.full;\012sub semicolon by semicolon.full;\012sub slash by slash.full;\012sub underscore by underscore.full;\012sub braceleft by braceleft.full;\012sub braceright by braceright.full;\012sub bracketleft by bracketleft.full;\012sub bracketright by bracketright.full;\012sub parenleft by parenleft.full;\012sub parenright by parenright.full;\012sub dollar by dollar.full;\012sub yen by yen.full;\012sub asciitilde by asciitilde.full;\012sub bar by bar.full;\012sub equal by equal.full;\012sub greater by greater.full;\012sub less by less.full;\012sub plus by plus.full;\012sub asciicircum by asciicircum.full;\012sub grave by grave.full;\012sub macron by macron.full;\012";
+name = fwid;
 }
 );
 fontMaster = (
@@ -133238,6 +133243,14 @@ name = Regular;
 manufacturer = "Yusei Magic Project";
 manufacturerURL = "https://github.com/tanukifont/YuseiMagic";
 unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"47F7128E-F1A6-4572-9BDC-88462FF34A66" = {
+HH = "50";
+HV = "116";
+};
+};
+};
 versionMajor = 1;
 versionMinor = 0;
 }
