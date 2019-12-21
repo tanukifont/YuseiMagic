@@ -1,3 +1,29 @@
+日本語の解説は後半に記載しています。/ Japanese description is below.  
+
+## What is 'yusei Magic'?
+Yusei Magic is a handwriting style fonts that was written with permanet marker. It has Google Latin Core, hiragana, katakana and JIS Level 1, 2 kanji and you can use this under the SIL Open Font Lisence, therefore you can use for commercial works. This font is perfect for designing handwriten and pop art!
+
+## Lisence
+SIL Open Font Lisence
+
+## Usage Permission
+- Please read OFL.txt(https://github.com/tanukifont/YuseiMagic/blob/master/OFL.txt) for more info.
+- Enable others to use personal and non-commercial, and commercial projects.
+- You can re-distribute and modify this font.
+
+## Link
+Designers site : https://tanukifont.com/ 
+
+## Supported characters
+Google fonts Latin Core (https://github.com/googlefonts/gftools/blob/master/Lib/gftools/encodings/GF%20Glyph%20Sets/GF-latin-core_unique-glyphs.nam)
+Hiragana
+Katakana
+Alphanumeric
+Kanji (JIS Level 1, Level 2)
+Punctuations and symbols
+
+------
+
 ## はじめに
 こちらはSIL Open Font Lisenseフォント「Yusei Magic」の開発プロジェクトです。  
 フォントの作成に当たり多大なるご支援を頂きましたGoogle Fontsに心より感謝いたします。  
