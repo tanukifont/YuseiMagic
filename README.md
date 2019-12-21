@@ -15,12 +15,12 @@ SIL Open Font Lisence
 Designers site : https://tanukifont.com/ 
 
 ## Supported characters
-Google fonts Latin Core (https://github.com/googlefonts/gftools/blob/master/Lib/gftools/encodings/GF%20Glyph%20Sets/GF-latin-core_unique-glyphs.nam)
-Hiragana
-Katakana
-Alphanumeric
-Kanji (JIS Level 1, Level 2)
-Punctuations and symbols
+- Google fonts Latin Core (https://github.com/googlefonts/gftools/blob/master/Lib/gftools/encodings/GF%20Glyph%20Sets/GF-latin-core_unique-glyphs.nam)
+- Hiragana
+- Katakana
+- Alphanumeric
+- Kanji (JIS Level 1, Level 2)
+- Punctuations and symbols
 
 ------
 
