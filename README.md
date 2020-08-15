@@ -16,6 +16,7 @@ Glyphs included
 
 Glyphs in process
 - Excluding the above mentioned Kanji characters JIS Lv2
+- Some Marks
 
 ---
 
@@ -60,6 +61,7 @@ Designers website : https://tanukifont.com/
 
 製作中グリフ
 - 上記を除く第二水準漢字
+- 一部の記号・約物
 
 ------
 
