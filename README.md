@@ -2,30 +2,17 @@
 
 ![Font Image](https://github.com/tanukifont/YuseiMagic/blob/master/documentation/img/YuseiMagic_sample_1.png)
 
-This font is currently in the works.
-See below for the recording status for 2020/9/14.
-
-Glyphs included
-- Google fonts Latin Core 
-- Hiragana
-- Katakana
-- Alphanumeric
-- Kanji (JIS Lv1, Lv2 and IBM Extended)
-- Punctuations and symbols
-
-Glyphs in process
-- Final Adjustment
 ---
 
-## What is 'yusei Magic'?
+## What is Yusei Magic?
 Yusei Magic is a font based on handwritten letters written with permanent marker.
 It has a thick vertical stroke and a thin horizontal stroke, so it is highly visible.
 The design of the letters has both the strength of bold lines and the softness of spaciousness.
 Highly recommended for handwriting on blackboards and pop art designs.
-This font includes Google Latin core, hiragana, katakana, JIS level 1 and level 2 kanji glyphs.
+This font includes Google Latin core, hiragana, katakana, JIS level 1, level 2 and IBM Extended Kanji(Han) glyphs.
 
 ## Lisence
-SIL Open Font Lisence
+[SIL Open Font License Version 1.1](https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1)
 
 ## Usage Permission
 - Please read OFL.txt(https://github.com/tanukifont/YuseiMagic/blob/master/OFL.txt) for more info.
@@ -43,45 +30,40 @@ Designers website : https://tanukifont.com/
 - Kanji (JIS Level 1, Level 2, IBM Extended)
 - Punctuations and symbols
 
-------
-
-このフォントは現在制作中です。
-2020/9/14の収録状況は下記のとおりです。
-
-収録済みグリフ
-- ひらがな
-- カタカナ
-- 英数字
-- JIS第一水準漢字
-- JIS第二水準漢字
-- IBM拡張文字
-- 句読点及び記号
-
-未完了の作業
-- 最終的な調整作業
+Further information is available via [documentation/YuseiMagic-Characters-List.pdf](https://github.com/tanukifont/YuseiMagic/blob/master/documentation/YuseiMagic-Characters-List.pdf)
 
 ------
 
 ## はじめに
 こちらはSIL Open Font Lisenseフォント「Yusei Magic」の開発プロジェクトです。  
-フォントの作成に当たり多大なるご支援を頂きましたGoogle Fontsに心より感謝いたします。  
+フォント制作にあたり多大なるご支援を頂きました[Google Fonts](https://fonts.google.com/)に心より感謝いたします。  
 プロジェクトのさらなる改善のため、皆様のご感想や改善案など頂けましたら幸いです。 
 
 ## 「Yusei Magic」について
-「Yusei Magic」は、2010年公開のフォント「たぬき油性マジック」をベースとして新たに作成する日本語フォントです。
+「Yusei Magic」は、2010年公開のフォント「たぬき油性マジック」をもとに新規に作成した、ペン字スタイルの手書き風日本語フォントです。極太な力強さとゆったりとした柔らかさの両方の特徴を併せ持ち、またペン先の形状を生かした太い縦画と細い横画で視認性・可読性を高めています。見出し・本文ともに使用可能なPOPフォントです。
 
-### ライセンス
-SIL Open Font License Version 1.1
+![Font Image](https://github.com/tanukifont/YuseiMagic/blob/master/documentation/img/YuseiMagic_sample_2.png)
 
-### 収録文字
+
+## ライセンス
+このフォントは、[SIL Open Font License Version 1.1](https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1)で公開しています。
+
+## 収録グリフ
 - Google Latin Core （半角英数字、基本ラテン文字など216文字）
 - ひらがな、カタカナ、全角英数、全角記号など
 - 漢字（JIS第一水準、JIS第二水準、IBM拡張文字）
 
+収録グリフの詳細は[documentation/YuseiMagic-Characters-List.pdf](https://github.com/tanukifont/YuseiMagic/blob/master/documentation/YuseiMagic-Characters-List.pdf)でもご確認いただけます。
+
 ## SIL Open Font License (SILオープンフォントライセンス) Version 1.1 について
 - 個人利用、商用利用に関わらず、使用用途を問わず無料で利用することができます。
-- フォントファイルを内包したアプリケーションやPDF、Webフォントを作成することもできます。
-- このフォントを改変し、派生フォントを作成することができます。ただし配布の際は下記の点にご注意ください。
--- SIL Open Font License Version 1.1 のライセンスで配布すること。（ファイル単体の販売不可）
--- フォント名に「Yusei Magic」を含めないこと。 
+- フォントファイルを内包したゲーム・アプリやPDF、Webフォントを作成する場合も、無償で利用することができます。
+- このフォントを独自に調整したり改変して、派生フォントを作成することができます。ただし配布の際は下記の条件がございます。
+    - SIL Open Font License Version 1.1 のライセンスで配布すること。（※すなわちフォントファイル単体での販売はできません）
+    - フォント名に「Yusei Magic」を含めないこと。 
 - SILライセンスについての詳細は、[ライセンス原文日本語サイト](https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1)、またはリポジトリ内のOFL.txt（英語）をご確認ください。
+
+## 作成者とご連絡先
+デザイン : たぬきフォント　https://tanukifont.com/ 
+
+お問い合わせがございましたら、たぬきフォントの[お問合せフォーム](https://tanukifont.com/contact-form/)、または作成者（たぬき侍）の[Twitter](https://twitter.com/tanukizamurai)までご連絡をお願いいたします。
