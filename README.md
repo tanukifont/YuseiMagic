@@ -6,21 +6,21 @@
 
 ## What is Yusei Magic?
 Yusei Magic is a font based on handwritten letters written with permanent marker.
-It has a thick vertical stroke and a thin horizontal stroke, so it is highly visible.
+It has thick vertical strokes and thin horizontal strokes, so it is highly visible.
 The design of the letters has both the strength of bold lines and the softness of spaciousness.
 Highly recommended for handwriting on blackboards and pop art designs.
-This font includes Google Latin core, hiragana, katakana, JIS level 1, level 2 and IBM Extended Kanji(Han) glyphs.
+This font includes Google Latin Core, Hiragana, Katakana, JIS level 1, level 2 and IBM Extended Kanji (Han) glyphs.
 
-## Lisence
+## License
 [SIL Open Font License Version 1.1][OFL]
 
 ## Usage Permission
 - Please read [`OFL.txt`](OFL.txt) for more info.
 - Enable others to use personal and non-commercial, and commercial projects.
-- You can re-distribute and modify this font.
+- You can redistribute and modify this font.
 
 ## Link
-Designers website : https://tanukifont.com/ 
+Designer's website : https://tanukifont.com/
 
 ## Supported characters
 - [Google Fonts Latin Core][GF]
@@ -28,16 +28,16 @@ Designers website : https://tanukifont.com/
 - Katakana
 - Alphanumeric
 - Kanji (JIS Level 1, Level 2, IBM Extended)
-- Punctuations and symbols
+- Punctuation and symbols
 
-Further information is available via [`documentation/YuseiMagic-Characters-List.pdf`](documentation/YuseiMagic-Characters-List.pdf)
+Further information is available in [`documentation/YuseiMagic-Characters-List.pdf`](documentation/YuseiMagic-Characters-List.pdf)
 
 ------
 
 ## はじめに
-こちらはSIL Open Font Lisenseフォント「Yusei Magic」の開発プロジェクトです。  
+こちらはSIL Open Font Licenseフォント「Yusei Magic」の開発プロジェクトです。  
 フォント制作にあたり多大なるご支援を頂きました[Google Fonts](https://fonts.google.com/)に心より感謝いたします。  
-プロジェクトのさらなる改善のため、皆様のご感想や改善案など頂けましたら幸いです。 
+プロジェクトのさらなる改善のため、皆様のご感想や改善案など頂けましたら幸いです。
 
 ## 「Yusei Magic」について
 「Yusei Magic」は、2010年公開のフォント「たぬき油性マジック」をもとに新規に作成した、ペン字スタイルの手書き風日本語フォントです。極太な力強さとゆったりとした柔らかさの両方の特徴を併せ持ち、またペン先の形状を生かした太い縦画と細い横画で視認性・可読性を高めています。見出し・本文ともに使用可能なPOPフォントです。
@@ -60,11 +60,11 @@ Further information is available via [`documentation/YuseiMagic-Characters-List.
 - フォントファイルを内包したゲーム・アプリやPDF、Webフォントを作成する場合も、無償で利用することができます。
 - このフォントを独自に調整したり改変して、派生フォントを作成することができます。ただし配布の際は下記の条件がございます。
     - SIL Open Font License Version 1.1 のライセンスで配布すること。（※すなわちフォントファイル単体での販売はできません）
-    - フォント名に「Yusei Magic」を含めないこと。 
+    - フォント名に「Yusei Magic」を含めないこと。
 - SILライセンスについての詳細は、[ライセンス原文日本語サイト][OFL]、またはリポジトリ内のOFL.txt（英語）をご確認ください。
 
 ## 作成者とご連絡先
-デザイン : たぬきフォント　https://tanukifont.com/ 
+デザイン : たぬきフォント　https://tanukifont.com/
 
 お問い合わせがございましたら、たぬきフォントの[お問合せフォーム](https://tanukifont.com/contact-form/)、または作成者（たぬき侍）の[Twitter](https://twitter.com/tanukizamurai)までご連絡をお願いいたします。
 
