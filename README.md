@@ -1,4 +1,4 @@
-日本語の解説は後半に記載しています。/ Japanese descriptions are described in the later part of this article.
+日本語の解説は後半に記載しています。/ Japanese descriptions are described in the [later part of this article](#はじめに).
 
 ![Font Image](documentation/img/YuseiMagic_sample_1.png)
 
@@ -49,7 +49,7 @@ Further information is available via [`documentation/YuseiMagic-Characters-List.
 このフォントは、[SIL Open Font License Version 1.1][OFL]で公開しています。
 
 ## 収録グリフ
-- Google Latin Core （半角英数字、基本ラテン文字など216文字）
+- [Google Latin Core][GF] （半角英数字、基本ラテン文字など216文字）
 - ひらがな、カタカナ、全角英数、全角記号など
 - 漢字（JIS第一水準、JIS第二水準、IBM拡張文字）
 
