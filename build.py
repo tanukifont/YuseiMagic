@@ -8,7 +8,7 @@ import ufo2ft
 import os
 
 print ("Converting to UFO")
-#main(("glyphs2ufo", "sources/YuseiMagic.glyphs"))
+main(("glyphs2ufo", "sources/YuseiMagic.glyphs"))
 
 exportFont = ufoLib2.Font.open("sources/YuseiMagic-Regular.ufo")
 
