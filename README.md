@@ -60,7 +60,6 @@ Further information is available in [`documentation/YuseiMagic-Characters-List.p
 - フォントファイルを内包したゲーム・アプリやPDF、Webフォントを作成する場合も、無償で利用することができます。
 - このフォントを独自に調整したり改変して、派生フォントを作成することができます。ただし配布の際は下記の条件がございます。
     - SIL Open Font License Version 1.1 のライセンスで配布すること。（※すなわちフォントファイル単体での販売はできません）
-    - フォント名に「Yusei Magic」を含めないこと。
 - SILライセンスについての詳細は、[ライセンス原文日本語サイト][OFL]、またはリポジトリ内のOFL.txt（英語）をご確認ください。
 
 ## 作成者とご連絡先
