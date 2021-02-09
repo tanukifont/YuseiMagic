@@ -13,7 +13,7 @@ main(("glyphs2ufo", "sources/YuseiMagic.glyphs"))
 exportFont = ufoLib2.Font.open("sources/YuseiMagic-Regular.ufo")
 
 exportFont.lib['com.github.googlei18n.ufo2ft.filters'] = [{
-    "name": "flattenComponents",
+    "name": "decomposeComponents",
     "pre": 1,
 }]
 
