@@ -4,7 +4,7 @@ import shutil
 import subprocess
 from glyphsLib.cli import main
 import ufoLib2
-import ufo2ft
+import ufo2ft #note, requires version 2.19.2
 import os
 
 print ("Converting to UFO")
@@ -13,7 +13,7 @@ main(("glyphs2ufo", "sources/YuseiMagic.glyphs"))
 exportFont = ufoLib2.Font.open("sources/YuseiMagic-Regular.ufo")
 
 exportFont.lib['com.github.googlei18n.ufo2ft.filters'] = [{
-    "name": "decomposeComponents",
+    "name": "flattenComponents",
     "pre": 1,
 }]
 
