@@ -1,0 +1,58 @@
+Font Information / Notes from the Author:
+V1.0 02/11/2021
+
+
+Yusei Magic FontLog
+======================
+
+Yusei Magic is a font based on handwritten letters written with permanent marker.
+It has a thick vertical stroke and a thin horizontal stroke, so it is highly visible.
+The design of the letters has both the strength of bold lines and the softness of spaciousness.
+Highly recommended for handwriting on blackboards and pop art designs.
+
+
+Description
+===========
+YuseiMagic has been created by The Yusei Magic Project Authors.
+This font is currently available at Google Fonts.
+https://fonts.google.com/specimen/Yusei+Magic
+I would like to thank the support from Google Fonts for the creation of this font.
+To contribute to the project, visit https://github.com/tanukifont/YuseiMagic
+
+
+Files
+=====
+
+* YuseiMagic-Regular.ttf
+This is the original of the font. It includes OpenType Layout features.
+
+* YuseiMagic.glyphs
+The Glyphs source file of yusei Magic. Glyphs is a font editor (https://glyphsapp.com/).
+
+* OFL.txt
+The Open Font License.
+
+* FontLog.txt
+This FontLog file.
+
+* build.py
+The Python format file to generate YuseiMagic-Regular.ttf from YuseiMagic.glyphs.
+
+
+License
+=======
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+http://scripts.sil.org/OFL
+
+
+Yusei Magic ChangeLog
+=====================
+
+* 02-11-2021
+- The glyph shapes of "," and ";" have been corrected.
+- The right sidebearing of the glyph "." , "," , ":" and ";" has been corrected.
+- The FONTLOG.txt has been included in the project.
+
+* 12-01-2020
+- Initial release of font family "Yusei Magic" created by The Yusei Magic Project Authors
